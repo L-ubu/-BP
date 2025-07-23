@@ -1,0 +1,153 @@
+.travel-agency {
+    background-color: #ffffff;
+    height: 875px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .travel-agency .hero {
+    height: 1018px;
+    left: -420px;
+    position: relative;
+    top: -149px;
+    width: 1922px;
+  }
+  
+  .travel-agency .overlap {
+    height: 869px;
+    left: 420px;
+    position: relative;
+    top: 149px;
+    width: 1440px;
+  }
+  
+  .travel-agency .decore {
+    height: 724px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .travel-agency .top-nav {
+    height: 40px;
+    left: 141px;
+    position: absolute;
+    top: 47px;
+    width: 1161px;
+  }
+  
+  .travel-agency .hero-content {
+    height: 764px;
+    left: 148px;
+    position: absolute;
+    top: 105px;
+    width: 1269px;
+  }
+  
+  .travel-agency .overlap-group {
+    height: 764px;
+    position: relative;
+  }
+  
+  .travel-agency .desc {
+    height: 535px;
+    left: 0;
+    position: absolute;
+    top: 112px;
+    width: 636px;
+  }
+  
+  .travel-agency .CTA {
+    height: 60px;
+    left: 0;
+    position: absolute;
+    top: 475px;
+    width: 379px;
+  }
+  
+  .travel-agency .div {
+    height: 130px;
+    left: -35px;
+    position: relative;
+    top: -15px;
+    width: 414px;
+  }
+  
+  .travel-agency .img {
+    height: 130px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 240px;
+  }
+  
+  .travel-agency .play-demo {
+    height: 112px;
+    left: 219px;
+    position: absolute;
+    top: 4px;
+    width: 195px;
+  }
+  
+  .travel-agency .tagline {
+    color: #df6951;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 2px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .travel-agency .text-wrapper {
+    color: #5e6282;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 351px;
+    width: 477px;
+  }
+  
+  .travel-agency .overlap-2 {
+    height: 267px;
+    left: 2px;
+    position: absolute;
+    top: 54px;
+    width: 628px;
+  }
+  
+  .travel-agency .decore-2 {
+    height: 12px;
+    left: 243px;
+    position: absolute;
+    top: 69px;
+    width: 385px;
+  }
+  
+  .travel-agency .heading {
+    color: #181e4b;
+    font-family: "Volkhov-Bold", Helvetica;
+    font-size: 84px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: -3.36px;
+    line-height: 89px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .travel-agency .image {
+    height: 764px;
+    left: 417px;
+    position: absolute;
+    top: 0;
+    width: 852px;
+  }
+  

@@ -1,0 +1,18 @@
+{
+  "name": "figma-mcp-server",
+  "version": "1.0.0",
+  "description": "Figma MCP Server for accessing Figma designs",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.4.0",
+    "node-fetch": "^3.3.2"
+  },
+  "keywords": ["figma", "mcp", "design", "api"],
+  "author": "",
+  "license": "MIT"
+} 

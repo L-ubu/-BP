@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "figma": {
+      "command": "node",
+      "args": ["server.js"],
+      "cwd": "C:\\Users\\Gebruiker\\`BP\\figma-mcp-server",
+      "env": {
+        "FIGMA_TOKEN": "figd_qew-RgZ6lyNOyMDaSOOCmk2LImv3LAlvfSTuJTVR"
+      }
+    }
+  }
+} 

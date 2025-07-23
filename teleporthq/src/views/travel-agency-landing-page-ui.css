@@ -1,0 +1,846 @@
+.travel-agency-landing-page-ui-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.travel-agency-landing-page-ui-travel-agency-landing-page-ui {
+  width: 100%;
+  height: 875px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.travel-agency-landing-page-ui-hero {
+  top: -149px;
+  left: -420px;
+  width: 1922.306884765625px;
+  height: 1018px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-ui-decore1 {
+  top: 0px;
+  left: 0px;
+  width: 1922.306884765625px;
+  height: 872.584228515625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-ui-ellipse81 {
+  top: 89.16445922851562px;
+  left: 0px;
+  width: 479px;
+  height: 497px;
+  opacity: 0.30;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-decore2 {
+  top: 0px;
+  left: 1156px;
+  width: 766px;
+  height: 873px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-top-nav {
+  top: 196px;
+  left: 560.9199829101562px;
+  width: 1160.5799560546875px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-ui-logo {
+  top: 1.695998191833496px;
+  left: 0px;
+  width: 114.91194915771484px;
+  height: 33.99400329589844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-ui-rectangle24 {
+  top: 31.304000854492188px;
+  left: 73.08000183105469px;
+  width: 39px;
+  height: 17px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-jadoo {
+  top: 0px;
+  left: 0px;
+  width: 115px;
+  height: 34px;
+  position: absolute;
+  box-sizing: content-box;
+}
+ 
+.travel-agency-landing-page-ui-text10 {
+  top: 9px;
+  left: 722.0800170898438px;
+  color: var(--dl-color-default-1st);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Google Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.travel-agency-landing-page-ui-text11 {
+  top: 9px;
+  left: 607.0800170898438px;
+  color: var(--dl-color-default-1st);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Google Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.travel-agency-landing-page-ui-text12 {
+  top: 9px;
+  left: 492.0799865722656px;
+  color: var(--dl-color-default-1st);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Google Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.travel-agency-landing-page-ui-text13 {
+  top: 9px;
+  left: 337.0799865722656px;
+  color: var(--dl-color-default-1st);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Google Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.travel-agency-landing-page-ui-text14 {
+  top: 9px;
+  left: 882.0800170898438px;
+  color: var(--dl-color-default-1st);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Google Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.travel-agency-landing-page-ui-button {
+  top: 0px;
+  left: 978.0800170898438px;
+  width: 102px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-ui-text15 {
+  top: 9px;
+  left: 22px;
+  color: var(--dl-color-default-1st);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Google Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.travel-agency-landing-page-ui-dropdown {
+  top: 9px;
+  left: 1122.0799560546875px;
+  width: 38.5px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-ui-text16 {
+  color: var(--dl-color-default-1st);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Google Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.travel-agency-landing-page-ui-vector1 {
+  top: 8.5px;
+  left: 29.5px;
+  width: 9px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-hero-content {
+  top: 254px;
+  left: 568px;
+  width: 1268.788330078125px;
+  height: 764px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-ui-desc {
+  top: 112px;
+  left: 0px;
+  width: 630px;
+  height: 535px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-uicta1 {
+  top: 475px;
+  left: 0px;
+  width: 379px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-uicta2 {
+  top: 0px;
+  left: 0px;
+  width: 170px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(241, 165, 1, 1);
+}
+ 
+.travel-agency-landing-page-ui-text17 {
+  top: 19px;
+  left: 27px;
+  color: var(--dl-color-default-white);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Google Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.travel-agency-landing-page-ui-play-demo {
+  top: 4px;
+  left: 214px;
+  width: 165px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-ui-text18 {
+  top: 15px;
+  left: 73px;
+  color: var(--dl-color-default-textcolor);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.travel-agency-landing-page-ui-playbutton {
+  top: 0px;
+  left: 0px;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-ui-ellipse82 {
+  top: 0px;
+  left: 0px;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-polygon1 {
+  top: 20px;
+  left: 34px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-text19 {
+  left: 2px;
+  color: rgba(223, 105, 81, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.travel-agency-landing-page-ui-text20 {
+  top: 351px;
+  color: rgba(94, 98, 130, 1);
+  width: 477px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.travel-agency-landing-page-ui-decore3 {
+  top: 123px;
+  left: 245px;
+  width: 385px;
+  height: 12px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 196, 196, 1);
+}
+ 
+.travel-agency-landing-page-ui-vector10 {
+  top: -27.393798828125px;
+  left: 19.161720275878906px;
+  width: 377px;
+  height: 66px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-decore4 {
+  top: 123px;
+  left: 245px;
+  width: 385px;
+  height: 12px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 196, 196, 1);
+}
+ 
+.travel-agency-landing-page-ui-vector11 {
+  top: -27.393798828125px;
+  left: 19.161720275878906px;
+  width: 377px;
+  height: 66px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-text21 {
+  top: 54px;
+  left: 2px;
+  color: var(--dl-color-default-1st);
+  height: auto;
+  position: absolute;
+  font-size: 84px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Volkhov;
+  font-weight: 700;
+  line-height: 89px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.travel-agency-landing-page-ui-image {
+  top: 0px;
+  left: 417px;
+  width: 851.7882690429688px;
+  height: 764px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-ui-plane1 {
+  top: 176.9151611328125px;
+  left: 570.82373046875px;
+  width: 229.28155517578125px;
+  height: 163.366943359375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-ui-group1 {
+  top: 0.00011516519430188055px;
+  left: 0.000011373936558811693px;
+  width: 177.32371520996094px;
+  height: 116.91957092285156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-ui-vector12 {
+  top: 15.420860003184657px;
+  left: 132.77609955112257px;
+  width: 13px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector13 {
+  top: -12.255668653915848px;
+  left: 127.52084910386657px;
+  width: 9px;
+  height: 14px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector14 {
+  top: -15.494757311365333px;
+  left: 114.83470091960771px;
+  width: 30px;
+  height: 46px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector15 {
+  top: 14.625288381931341px;
+  left: 84.52768336081294px;
+  width: 148px;
+  height: 58px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector16 {
+  top: 17.98969567830909px;
+  left: 99.8341921696483px;
+  width: 85px;
+  height: 66px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector17 {
+  top: 9.393313757160058px;
+  left: 70.5314852470201px;
+  width: 21px;
+  height: 45px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector18 {
+  top: 30.064845942030217px;
+  left: 78.84582889730791px;
+  width: 24px;
+  height: 17px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector19 {
+  top: -23.888665638378484px;
+  left: 168.3411723731151px;
+  width: 11px;
+  height: 13px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector20 {
+  top: -16.961611938151123px;
+  left: 159.29370517614166px;
+  width: 5px;
+  height: 22px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-group2 {
+  top: 1.2344156404687965px;
+  left: 69.60461022635718px;
+  width: 86.48905944824219px;
+  height: 44.04393005371094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-ui-vector21 {
+  top: -13.448720996831867px;
+  left: 85.47948489801274px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector22 {
+  top: -10.67626121068048px;
+  left: 81.01513225592294px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector23 {
+  top: -7.90372235671839px;
+  left: 76.55050011383764px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector24 {
+  top: -5.131336703515217px;
+  left: 72.08618244968056px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector25 {
+  top: -2.3597575949796123px;
+  left: 67.62167273121713px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector26 {
+  top: 0.41270427387462405px;
+  left: 63.1571969006759px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector27 {
+  top: 3.1853590568331356px;
+  left: 58.69258779721849px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector28 {
+  top: 5.957870724566362px;
+  left: 54.22801832942514px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector29 {
+  top: 8.730281000385048px;
+  left: 49.763760020152404px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector30 {
+  top: 11.503521400150305px;
+  left: 45.29795567927408px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector31 {
+  top: 14.275190724075287px;
+  left: 40.83468977220127px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-traveller1 {
+  top: 0px;
+  left: 0px;
+  width: 765px;
+  height: 764px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-plane2 {
+  top: 129.9151611328125px;
+  left: 86.82331848144531px;
+  width: 229.28228759765625px;
+  height: 163.3675079345703px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-ui-group3 {
+  top: 0.00008603682670127455px;
+  left: -0.0000033556227663211757px;
+  width: 177.32423400878906px;
+  height: 116.92000579833984px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-ui-vector32 {
+  top: 15.420910379376778px;
+  left: 132.77660300107823px;
+  width: 13px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector33 {
+  top: -12.25562174507337px;
+  left: 127.52135986294593px;
+  width: 9px;
+  height: 14px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector34 {
+  top: -15.494714447631907px;
+  left: 114.83513922903376px;
+  width: 30px;
+  height: 46px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector35 {
+  top: 14.625322237660612px;
+  left: 84.52807066322589px;
+  width: 148px;
+  height: 58px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector36 {
+  top: 17.989738684106214px;
+  left: 99.83472567639274px;
+  width: 85px;
+  height: 66px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector37 {
+  top: 9.393342734373164px;
+  left: 70.53190192676539px;
+  width: 21px;
+  height: 45px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector38 {
+  top: 30.06487320595312px;
+  left: 78.84616312927528px;
+  width: 24px;
+  height: 17px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector39 {
+  top: -23.888639494093297px;
+  left: 168.34160555979338px;
+  width: 11px;
+  height: 13px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector40 {
+  top: -16.96156849400859px;
+  left: 159.29413566471862px;
+  width: 5px;
+  height: 22px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-group4 {
+  top: 1.234584970361425px;
+  left: 69.60512396170247px;
+  width: 86.48907470703125px;
+  height: 44.043922424316406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.travel-agency-landing-page-ui-vector41 {
+  top: -13.448851741134035px;
+  left: 85.47949066975252px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector42 {
+  top: -10.676377156505168px;
+  left: 81.01504576575826px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector43 {
+  top: -7.903843313248558px;
+  left: 76.55044455538109px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector44 {
+  top: -5.131479320574499px;
+  left: 72.08615508140315px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector45 {
+  top: -2.3598829947885633px;
+  left: 67.62164440421793px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector46 {
+  top: 0.41257386336133095px;
+  left: 63.157199505380504px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector47 {
+  top: 3.185228593916861px;
+  left: 58.69259054972599px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector48 {
+  top: 5.957744857665148px;
+  left: 54.227992369811545px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector49 {
+  top: 8.730172350700173px;
+  left: 49.76373310186091px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector50 {
+  top: 11.50340115620412px;
+  left: 45.29790108621387px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.travel-agency-landing-page-ui-vector51 {
+  top: 14.275060666080321px;
+  left: 40.83469593271684px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}

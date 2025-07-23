@@ -1,0 +1,276 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.container {
+  min-height: 100vh;
+  background-color: #fff1da;
+}
+
+/* Header Styles */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 1.5rem;
+}
+
+@media (min-width: 1024px) {
+  .header {
+    padding: 1rem 5rem;
+  }
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #181e4b;
+}
+
+.logo-accent {
+  color: #f15a2b;
+}
+
+.nav {
+  display: none;
+  align-items: center;
+  gap: 2rem;
+}
+
+@media (min-width: 768px) {
+  .nav {
+    display: flex;
+  }
+}
+
+.nav-link {
+  color: #212832;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #f15a2b;
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.login-btn {
+  background: none;
+  border: none;
+  color: #212832;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.login-btn:hover {
+  color: #f15a2b;
+}
+
+.signup-btn {
+  padding: 0.5rem 1rem;
+  border: 1px solid #212832;
+  background: transparent;
+  color: #212832;
+  border-radius: 0.375rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.signup-btn:hover {
+  background: #212832;
+  color: white;
+}
+
+.language-selector {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  color: #212832;
+  cursor: pointer;
+}
+
+/* Hero Section Styles */
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 3rem 1.5rem;
+}
+
+@media (min-width: 1024px) {
+  .hero {
+    padding: 5rem 5rem;
+  }
+}
+
+.hero-content {
+  flex: 1;
+  max-width: 36rem;
+}
+
+.hero-subtitle {
+  color: #f15a2b;
+  font-weight: bold;
+  font-size: 1.125rem;
+  margin-bottom: 1.5rem;
+  letter-spacing: 0.05em;
+}
+
+.hero-title {
+  color: #181e4b;
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.1;
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 1024px) {
+  .hero-title {
+    font-size: 3.75rem;
+  }
+}
+
+.hero-title-highlight {
+  position: relative;
+}
+
+.hero-title-highlight::after {
+  content: "";
+  position: absolute;
+  bottom: 0.5rem;
+  left: 0;
+  width: 100%;
+  height: 0.75rem;
+  background-color: #f15a2b;
+  opacity: 0.3;
+  z-index: -1;
+}
+
+.hero-description {
+  color: #5e6282;
+  font-size: 1.125rem;
+  line-height: 1.6;
+  margin-bottom: 2.5rem;
+  max-width: 28rem;
+}
+
+.hero-actions {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.cta-button {
+  background-color: #f1a501;
+  color: white;
+  padding: 0.75rem 2rem;
+  border: none;
+  border-radius: 0.5rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #ffa90f;
+}
+
+.play-button {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.play-icon {
+  width: 3rem;
+  height: 3rem;
+  background-color: #f15a2b;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s ease;
+}
+
+.play-button:hover .play-icon {
+  background-color: #df6951;
+}
+
+.play-text {
+  color: #686d77;
+  font-weight: 500;
+}
+
+.hero-image {
+  flex: 1;
+  position: relative;
+  display: none;
+}
+
+@media (min-width: 1024px) {
+  .hero-image {
+    display: block;
+  }
+}
+
+.hero-image img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+/* Decorative airplane elements */
+.airplane-decoration {
+  position: absolute;
+  color: #59b1e6;
+}
+
+.airplane-1 {
+  top: 5rem;
+  right: 5rem;
+  opacity: 0.8;
+}
+
+.airplane-2 {
+  top: 10rem;
+  left: 2.5rem;
+  opacity: 0.6;
+}
+
+.airplane-3 {
+  bottom: 8rem;
+  right: 8rem;
+  opacity: 0.7;
+}
+
+/* Chevron icon */
+.chevron-icon {
+  width: 1rem;
+  height: 1rem;
+}
+
+/* Play triangle icon */
+.play-triangle {
+  width: 1.25rem;
+  height: 1.25rem;
+  color: white;
+  margin-left: 0.125rem;
+}
